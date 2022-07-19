@@ -3,6 +3,7 @@
 	"author": "Jane Doe",
 	"description": "Path to improve my Backend",
 	"keywords":["freecodecamp","VMware","travel","nodejs","backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
