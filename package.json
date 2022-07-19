@@ -4,6 +4,7 @@
 	"description": "Path to improve my Backend",
 	"keywords":["freecodecamp","VMware","travel","nodejs","backend"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
