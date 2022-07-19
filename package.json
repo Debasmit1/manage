@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "debasmit biswal",
+	"author": "Jane Doe",
+	"description": "Path to improve my Backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
